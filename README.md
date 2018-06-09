@@ -1,0 +1,2 @@
+# swf-Delegate-demo
+Delegateサンプル
